@@ -1,0 +1,20 @@
+# use glob syntax.
+syntax: glob
+build
+target
+out
+lib
+pom.xml
+*.ser
+*.class
+*.jar
+*~
+.DS_Store
+*.#*
+*#*
+*.classpath
+*.project
+*.dot
+.lein-failures
+.lein-deps-sum
+autodoc
